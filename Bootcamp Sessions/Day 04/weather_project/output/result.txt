@@ -1,0 +1,10 @@
+temperature:
+  mean: 30.333333333333332
+  min: 24
+  max: 35
+
+windspeed:
+  mean: 4.666666666666667
+  min: 2
+  max: 7
+
